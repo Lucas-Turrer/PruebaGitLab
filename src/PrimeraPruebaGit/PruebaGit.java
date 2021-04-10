@@ -10,6 +10,8 @@ public class PruebaGit {
 		System.out.println("ahora el valor de i es: "+i);
 		
 		System.out.println("Commit julian");
+		
+		System.out.println("Prueba en otra rama");
 
 	}
 
